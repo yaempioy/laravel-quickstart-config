@@ -10,7 +10,7 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => env('DB_HOST', '13.228.160.237'),
+            'host'      => env('DB_HOST', '54.254.253.125'),
             'database'  => env('DB_DATABASE', 'my_database'),
             'username'  => env('DB_USERNAME', 'my_user'),
             'password'  => env('DB_PASSWORD', 'my_password'),
